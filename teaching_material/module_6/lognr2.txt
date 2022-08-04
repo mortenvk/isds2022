@@ -1,0 +1,6 @@
+timestamp;status_code;length;output_file
+2022-08-03 15:30:04;200;116253;/Users/MortenKarlsen/Dropbox/isds2022/teaching_material/module_6
+2022-08-03 15:30:04;200;116391;/Users/MortenKarlsen/Dropbox/isds2022/teaching_material/module_6
+2022-08-03 15:30:05;200;116162;/Users/MortenKarlsen/Dropbox/isds2022/teaching_material/module_6
+2022-08-03 15:30:05;200;116371;/Users/MortenKarlsen/Dropbox/isds2022/teaching_material/module_6
+2022-08-03 15:30:06;200;116690;/Users/MortenKarlsen/Dropbox/isds2022/teaching_material/module_6
