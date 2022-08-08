@@ -128,7 +128,7 @@ Below are some interesting academic papers using data scraped from online source
 
 - Stephens-Davidowitz, Seth, Hal Varian, and Michael D. Smith. 2016. "[Super Returns to Super Bowl Ads?](http://people.ischool.berkeley.edu/~hal/Papers/2015/super.pdf)". R & R, *Journal of Political Economy*.
 
-- Stephens-Davidowitz, Seth, and Hal Varian. 2015 "[A Hands-on Guide to Google Data](https://www.aeaweb.org/aea/2016conference/program/retrieve.php?pdfid=772)." Google working paper.
+- Stephens-Davidowitz, Seth, and Hal Varian. 2015 "[A Hands-on Guide to Google Data](https://www.aeaweb.org/conference/2016/retrieve.php?pdfid=14330&tk=S7QBBHGE)." Google working paper.
 
 - Barberá, Pablo. 2015. "[Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](http://pan.oxfordjournals.org/content/23/1/76.short)." *Political Analysis*, 23.1: 76-91.
 
@@ -236,26 +236,27 @@ We introduce the concept of **Text as Data**, and apply our newly acquired knowl
 
 #### Required readings
 
-- PML: following sections from chapter 8:
-  - Introduction
-  - Preparing the IMDb movie review data for text processing
-  - Introducing the bag-of-words model
-  - Training a logistic regression model for document classification
-
-- Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
-  - Following sections:
-    - 2.4 Text Normalization
-
 - Gentzkow, M., Kelly, B.T. and Taddy, M., 2019. ["Text as data"](https://doi.org/10.1257/jel.20181020) *Journal of Economic Literature* 57(3).
   - Following sections:
     - 1. Introduction
     - 2. Representing Text as Data
 
+- Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+  - Following sections:
+    - 2.4 Text Normalization
+
+- PML: following sections from chapter 8:
+  - Introduction
+  - Preparing the IMDb movie review data for text processing
+  - Introducing the bag-of-words model
+  - Training a logistic regression model for document classification
+  - Topic modeling with Latent Dirichlet Allocation
+
 
 #### Inspirational readings `*`
 Gentzkow, M., Kelly, B.T. and Taddy, M., 2019. ["Text as data"](https://doi.org/10.1257/jel.20181020) *Journal of Economic Literature* 57(3).
   - Following sections:
-    - Applications
+    - 4. Applications
 
 Gorrell, Genevieve et al. “Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians.” ICWSM (2018). https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf
 
